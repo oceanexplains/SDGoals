@@ -15,6 +15,8 @@
 		54B08CB529A49F5A00FE4F48 /* GoalModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B08CB429A49F5A00FE4F48 /* GoalModels.swift */; };
 		54B08CB729A49F6B00FE4F48 /* IndicatorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B08CB629A49F6B00FE4F48 /* IndicatorModels.swift */; };
 		54B08CB929A4A13A00FE4F48 /* TargetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B08CB829A4A13A00FE4F48 /* TargetsView.swift */; };
+		54B08CBB29A4A2E100FE4F48 /* TargetModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B08CBA29A4A2E100FE4F48 /* TargetModels.swift */; };
+		54B08CBD29A4A32500FE4F48 /* GoalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B08CBC29A4A32500FE4F48 /* GoalsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		54B08CB429A49F5A00FE4F48 /* GoalModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalModels.swift; sourceTree = "<group>"; };
 		54B08CB629A49F6B00FE4F48 /* IndicatorModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorModels.swift; sourceTree = "<group>"; };
 		54B08CB829A4A13A00FE4F48 /* TargetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetsView.swift; sourceTree = "<group>"; };
+		54B08CBA29A4A2E100FE4F48 /* TargetModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetModels.swift; sourceTree = "<group>"; };
+		54B08CBC29A4A32500FE4F48 /* GoalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +65,10 @@
 			children = (
 				54B08CA029A499F800FE4F48 /* SDGoalsApp.swift */,
 				54B08CB429A49F5A00FE4F48 /* GoalModels.swift */,
+				54B08CBC29A4A32500FE4F48 /* GoalsView.swift */,
 				54B08CA229A499F800FE4F48 /* ContentView.swift */,
 				54B08CB629A49F6B00FE4F48 /* IndicatorModels.swift */,
+				54B08CBA29A4A2E100FE4F48 /* TargetModels.swift */,
 				54B08CB229A49B8200FE4F48 /* IndicatorsView.swift */,
 				54B08CB829A4A13A00FE4F48 /* TargetsView.swift */,
 				54B08CA429A499F900FE4F48 /* Assets.xcassets */,
@@ -152,7 +158,9 @@
 				54B08CB529A49F5A00FE4F48 /* GoalModels.swift in Sources */,
 				54B08CB329A49B8200FE4F48 /* IndicatorsView.swift in Sources */,
 				54B08CA329A499F800FE4F48 /* ContentView.swift in Sources */,
+				54B08CBD29A4A32500FE4F48 /* GoalsView.swift in Sources */,
 				54B08CB929A4A13A00FE4F48 /* TargetsView.swift in Sources */,
+				54B08CBB29A4A2E100FE4F48 /* TargetModels.swift in Sources */,
 				54B08CA129A499F800FE4F48 /* SDGoalsApp.swift in Sources */,
 				54B08CB729A49F6B00FE4F48 /* IndicatorModels.swift in Sources */,
 			);
