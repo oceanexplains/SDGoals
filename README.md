@@ -5,7 +5,7 @@ This is a small project I will work on from time to time. My undergraduate was f
 
 Features
 - [x] Load all Goals, Targets, and Indicators
-- [ ] Basic User Interface
+- [x] Basic User Interface
 - [ ] Link the Targets and Indicators (currently seperate lists) 
 - [ ] A search function to easily find information on specific SDGs, targets, or indicators
 - [ ] User-friendly interface with clean design and intuitive navigation
